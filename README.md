@@ -1,4 +1,4 @@
 # Site
-Personal/Portfolio site
+Personal/Portfolio Site
 
 http://www.thiagoloureiro.com.br
